@@ -29,25 +29,25 @@ This project involves the creation of **two interactive Tableau dashboards**—a
 
  📈 Sales Dashboard Features
 
-* KPI Overview:** Displays total sales, profits, and quantity for current and previous years
-* Sales Trends:** Monthly visualization of KPIs to identify best and worst months
-*Product Subcategory Comparison:** Compare sales and profits across subcategories
-* Weekly Trends:** Highlight weekly sales and profits, with emphasis on above/below-average weeks
-* Interactive Elements:** Filters for product category, subcategory, and location
+* KPI Overview: Displays total sales, profits, and quantity for current and previous years
+* Sales Trends: Monthly visualization of KPIs to identify best and worst months
+*Product Subcategory Comparison: Compare sales and profits across subcategories
+* Weekly Trends: Highlight weekly sales and profits, with emphasis on above/below-average weeks
+* Interactive Elements: Filters for product category, subcategory, and location
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Customer Dashboard Features
 
-* KPI Overview:** Total customers, sales per customer, and total orders for current and previous years
-* Customer Trends:** Monthly analysis to identify peak and low-performance periods
-* Customer Distribution:** Visualization of customer behavior based on number of orders
-* Top 10 Customers by Profit:** Shows rankings, orders, sales, profits, and last order date
-* Dynamic & Interactive:** Users can select historical years, navigate dashboards, and apply interactive filters by product and location
+* KPI Overview: Total customers, sales per customer, and total orders for current and previous years
+* Customer Trends: Monthly analysis to identify peak and low-performance periods
+* Customer Distribution: Visualization of customer behavior based on number of orders
+* Top 10 Customers by Profit: Shows rankings, orders, sales, profits, and last order date
+* Dynamic & Interactive: Users can select historical years, navigate dashboards, and apply interactive filters by product and location
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 💡 Key Business Insights
+💡 Key Business Insights
 
 * Identified high-performing customers and products
 * Highlighted regional and category-specific sales trends
